@@ -1,0 +1,1 @@
+This is an exercise to test my knologe on HTML5 and CSS3, aimed to create a tech blog
