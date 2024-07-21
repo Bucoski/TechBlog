@@ -27,7 +27,7 @@ body {
     margin: 0 auto;
     padding: 15px;
 }
-#area-lateral, #area-postagem {
+#area-lateral {
     background: orange;  /*LEMBRA DE TIRAR ISSO QUANDO TERMINAR DE USAR!!!!!*/
 }
 #area-postagem {
