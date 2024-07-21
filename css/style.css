@@ -73,6 +73,7 @@ a:hover {
 #area-cabecalho a:hover {
     color: #f7b600;
     background-color: white;
+    text-decoration: none;
 }
 
 
