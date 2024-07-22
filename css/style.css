@@ -27,9 +27,7 @@ body {
     margin: 0 auto;
     padding: 15px;
 }
-#area-lateral {
-    background: orange;  /*LEMBRA DE TIRAR ISSO QUANDO TERMINAR DE USAR!!!!!*/
-}
+
 #area-postagem {
     width: 660px;
     float: left;
@@ -51,6 +49,13 @@ body {
     padding: 20px;
     margin-bottom: 20px;
     background-color: white;
+}
+
+.conteudo-lateral {
+    background: white;
+    padding: 10px;
+    margin-bottom: 10px;
+
 }
 /*Formatação Menu*/
 a {
@@ -88,6 +93,12 @@ h2 {
     color: #f7b600;
 }
 
+h3 {
+    color: #565656;
+    background: #CCC;
+    padding: 5px;
+}
+
 .data-postagem {
     font-size: 0.8em;
     border-bottom: 1px solid #f4f4f4;
@@ -98,4 +109,10 @@ h2 {
 
 .branco {
     color: white;
+}
+
+.postagem-lateral {
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #CCC;
 }
